@@ -1,1 +1,11 @@
+@charset "utf-8";
 
+.facility h1 {
+  padding-top: 100px;
+  padding-left: 50px;
+  
+}
+.facility ol {
+  padding: 50px;
+  
+}
